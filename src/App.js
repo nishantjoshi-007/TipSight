@@ -15,7 +15,7 @@ function App() {
   useEffect(() => {
     const loadData = async () => {
       try {
-        let data = await d3.csv('/data/tips.csv');
+        let data = await d3.csv(process.env.PUBLIC_URL + '/data/tips.csv');
         data = data.map(d => ({
           ...d,
           total_bill: +d.total_bill,
