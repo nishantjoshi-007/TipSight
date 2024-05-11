@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TipsAnanlyzer/static/css/main.b0f8a0ea.css",
-    "main.js": "/TipsAnanlyzer/static/js/main.635e7b22.js",
-    "static/js/453.70ee8a15.chunk.js": "/TipsAnanlyzer/static/js/453.70ee8a15.chunk.js",
-    "index.html": "/TipsAnanlyzer/index.html",
-    "main.b0f8a0ea.css.map": "/TipsAnanlyzer/static/css/main.b0f8a0ea.css.map",
-    "main.635e7b22.js.map": "/TipsAnanlyzer/static/js/main.635e7b22.js.map",
-    "453.70ee8a15.chunk.js.map": "/TipsAnanlyzer/static/js/453.70ee8a15.chunk.js.map"
+    "main.css": "/TipSight/static/css/main.b0f8a0ea.css",
+    "main.js": "/TipSight/static/js/main.75279a4b.js",
+    "static/js/453.70ee8a15.chunk.js": "/TipSight/static/js/453.70ee8a15.chunk.js",
+    "index.html": "/TipSight/index.html",
+    "main.b0f8a0ea.css.map": "/TipSight/static/css/main.b0f8a0ea.css.map",
+    "main.75279a4b.js.map": "/TipSight/static/js/main.75279a4b.js.map",
+    "453.70ee8a15.chunk.js.map": "/TipSight/static/js/453.70ee8a15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b0f8a0ea.css",
-    "static/js/main.635e7b22.js"
+    "static/js/main.75279a4b.js"
   ]
 }
