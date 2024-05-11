@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# :star2: TipSight: Unveiling Insights in Tipping Behavior
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align='center'>
+<p>Welcome to the TipsAnalyzer GitHub repository! This project harnesses a rich dataset to illuminate trends and insights in tipping behavior across various restaurant contexts. With data from over 250 records featuring variables like total bill, tip amount, customer demographics, time of day, and dining context, our tool is designed to serve restaurant owners, servers, and industry analysts. The user interface of the dashboard includes intuitive elements such as dropdowns, sliders, and checklists, allowing users to easily dissect and understand the nuances of tipping patterns. Our aim is to provide actionable insights that enhance service strategies and optimize customer satisfaction in the hospitality industry.</p>
+<h4> <a href=https://nishantjoshi-007.github.io/TipSight/>View Demo</a> <span> · </span> <a href="https://github.com/nishantjoshi-007/TipSight/blob/main/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/nishantjoshi-007/TipSight/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/nishantjoshi-007/TipSight/issues"> Request Feature </a> </h4>
+</div>
 
-## Available Scripts
+# :notebook_with_decorative_cover: Table of Contents
+- [Getting Started](#toolbox-getting-started)
+- [Contributing](#wave-contributing)
+- [License](#warning-license)
 
-In the project directory, you can run:
 
-### `npm start`
+## :toolbox: Getting Started
+### :bangbang: Prerequisites
+- Install VS Code<a href="https://code.visualstudio.com/Download"> Here</a>
+- Install Node JS in your computer<a href="https://nodejs.org/en/"> Here</a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### :running: Run Locally
+Clone the project
+```bash
+git clone https://github.com/nishantjoshi-007/TipSight
+```
+Go to project directory
+```bash
+cd TipSight
+```
+Install necessary libraries
+```bash
+npm install
+```
+To run this project
+```bash
+npm start
+```
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :wave: Contributing
+<img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> Contributions to the CarVis are always welcome! Whether it's reporting bugs, suggesting new features, or improving the code, your input is valuable. Please feel free to fork this repository, make your changes, and submit a pull request.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## :warning: License
+Distributed under the MIT License. See <a href="https://github.com/nishantjoshi-007/CarVis/blob/main/LICENSE">LICENSE.txt</a> for more information.
