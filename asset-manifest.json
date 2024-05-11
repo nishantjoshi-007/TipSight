@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tipsAnanlyzer/static/css/main.b0f8a0ea.css",
-    "main.js": "/tipsAnanlyzer/static/js/main.902a2031.js",
-    "static/js/453.70ee8a15.chunk.js": "/tipsAnanlyzer/static/js/453.70ee8a15.chunk.js",
-    "index.html": "/tipsAnanlyzer/index.html",
-    "main.b0f8a0ea.css.map": "/tipsAnanlyzer/static/css/main.b0f8a0ea.css.map",
-    "main.902a2031.js.map": "/tipsAnanlyzer/static/js/main.902a2031.js.map",
-    "453.70ee8a15.chunk.js.map": "/tipsAnanlyzer/static/js/453.70ee8a15.chunk.js.map"
+    "main.css": "/TipsAnanlyzer/static/css/main.b0f8a0ea.css",
+    "main.js": "/TipsAnanlyzer/static/js/main.635e7b22.js",
+    "static/js/453.70ee8a15.chunk.js": "/TipsAnanlyzer/static/js/453.70ee8a15.chunk.js",
+    "index.html": "/TipsAnanlyzer/index.html",
+    "main.b0f8a0ea.css.map": "/TipsAnanlyzer/static/css/main.b0f8a0ea.css.map",
+    "main.635e7b22.js.map": "/TipsAnanlyzer/static/js/main.635e7b22.js.map",
+    "453.70ee8a15.chunk.js.map": "/TipsAnanlyzer/static/js/453.70ee8a15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b0f8a0ea.css",
-    "static/js/main.902a2031.js"
+    "static/js/main.635e7b22.js"
   ]
 }
