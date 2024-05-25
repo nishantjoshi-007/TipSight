@@ -2,7 +2,7 @@
 
 <div align='center'>
 <p>Welcome to the 'TipSight' GitHub repository! This project harnesses a rich dataset to illuminate trends and insights in tipping behavior across various restaurant contexts. With data from over 250 records featuring variables like total bill, tip amount, customer demographics, time of day, and dining context, our tool is designed to serve restaurant owners, servers, and industry analysts. The user interface of the dashboard includes intuitive elements such as dropdowns, sliders, and checklists, allowing users to easily dissect and understand the nuances of tipping patterns. Our aim is to provide actionable insights that enhance service strategies and optimize customer satisfaction in the hospitality industry.</p>
-<h4> <a href=https://nishantjoshi-007.github.io/TipSight/>Live Demo</a> <span> · </span> <a href="https://github.com/nishantjoshi-007/TipSight/blob/main/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/nishantjoshi-007/TipSight/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/nishantjoshi-007/TipSight/issues"> Request Feature </a> </h4>
+<h4> <a href=https://nishantjoshi-007.github.io/TipSight/>Live Demo</a> <span> · </span> <a href="https://github.com/nishantjoshi-007/TipSight/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/nishantjoshi-007/TipSight/issues"> Request Feature </a> </h4>
 </div>
 
 # :notebook_with_decorative_cover: Table of Contents
